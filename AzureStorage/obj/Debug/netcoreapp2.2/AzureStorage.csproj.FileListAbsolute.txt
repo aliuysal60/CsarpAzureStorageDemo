@@ -1,0 +1,11 @@
+C:\Users\auysa\source\repos\AzureStorage\AzureStorage\bin\Debug\netcoreapp2.2\AzureStorage.deps.json
+C:\Users\auysa\source\repos\AzureStorage\AzureStorage\bin\Debug\netcoreapp2.2\AzureStorage.runtimeconfig.json
+C:\Users\auysa\source\repos\AzureStorage\AzureStorage\bin\Debug\netcoreapp2.2\AzureStorage.runtimeconfig.dev.json
+C:\Users\auysa\source\repos\AzureStorage\AzureStorage\bin\Debug\netcoreapp2.2\AzureStorage.dll
+C:\Users\auysa\source\repos\AzureStorage\AzureStorage\obj\Debug\netcoreapp2.2\AzureStorage.csprojAssemblyReference.cache
+C:\Users\auysa\source\repos\AzureStorage\AzureStorage\obj\Debug\netcoreapp2.2\AzureStorage.csproj.CoreCompileInputs.cache
+C:\Users\auysa\source\repos\AzureStorage\AzureStorage\obj\Debug\netcoreapp2.2\AzureStorage.AssemblyInfoInputs.cache
+C:\Users\auysa\source\repos\AzureStorage\AzureStorage\obj\Debug\netcoreapp2.2\AzureStorage.AssemblyInfo.cs
+C:\Users\auysa\source\repos\AzureStorage\AzureStorage\bin\Debug\netcoreapp2.2\AzureStorage.pdb
+C:\Users\auysa\source\repos\AzureStorage\AzureStorage\obj\Debug\netcoreapp2.2\AzureStorage.dll
+C:\Users\auysa\source\repos\AzureStorage\AzureStorage\obj\Debug\netcoreapp2.2\AzureStorage.pdb
